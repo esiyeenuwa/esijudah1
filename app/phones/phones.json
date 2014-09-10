@@ -151,5 +151,12 @@
         "imageUrl": "img/phones/motorola-charm-with-motoblur.0.jpg", 
         "name": "Motorola CHARM\u2122 with MOTOBLUR\u2122", 
         "snippet": "Motorola CHARM fits easily in your pocket or palm.  Includes MOTOBLUR service."
+    },
+	 {
+        "age": 20, 
+        "id": "nokia-x", 
+        "imageUrl": "img/phones/nokia-x.1.jpg", 
+        "name": "Nokia X with Andriod", 
+        "snippet": "Nokia-x fits well with your dual sim needs."
     }
 ]
